@@ -1,0 +1,16 @@
+<Graph>
+  <top Id="3" length="5">
+    <top Id="4" />
+    <top Id="1" />
+    <top Id="5" />
+    <top Id="2" />
+  </top>
+  <top Id="0" length="6">
+    <top Id="1" />
+    <top Id="2" />
+  </top>
+  <top Id="4" length="6" />
+  <top Id="1" length="8" />
+  <top Id="5" length="9" />
+  <top Id="2" length="6" />
+</Graph>

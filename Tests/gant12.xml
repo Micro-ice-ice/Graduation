@@ -1,0 +1,16 @@
+<Gant>
+  <length value="30" />
+  <Worker1 length="30">
+    <work Id="0" legnth="4" start="0" end="4" />
+    <work Id="1" legnth="9" start="4" end="13" />
+    <work Id="2" legnth="7" start="13" end="20" />
+    <work Id="3" legnth="10" start="20" end="30" />
+  </Worker1>
+  <Worker2 length="30">
+    <work Id="4" legnth="5" start="0" end="5" />
+    <work Id="5" legnth="8" start="5" end="13" />
+    <work Id="6" legnth="5" start="13" end="18" />
+    <work Id="7" legnth="6" start="18" end="24" />
+    <work Id="8" legnth="6" start="24" end="30" />
+  </Worker2>
+</Gant>

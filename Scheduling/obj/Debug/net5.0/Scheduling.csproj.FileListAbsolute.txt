@@ -1,0 +1,12 @@
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\bin\Debug\net5.0\Scheduling.deps.json
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\bin\Debug\net5.0\Scheduling.dll
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\bin\Debug\net5.0\ref\Scheduling.dll
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\bin\Debug\net5.0\Scheduling.pdb
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\obj\Debug\net5.0\Scheduling.csproj.AssemblyReference.cache
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\obj\Debug\net5.0\Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\obj\Debug\net5.0\Scheduling.AssemblyInfoInputs.cache
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\obj\Debug\net5.0\Scheduling.AssemblyInfo.cs
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\obj\Debug\net5.0\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\obj\Debug\net5.0\Scheduling.dll
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\obj\Debug\net5.0\ref\Scheduling.dll
+C:\Users\Chocolove\source\repos\Graduation\Scheduling\obj\Debug\net5.0\Scheduling.pdb

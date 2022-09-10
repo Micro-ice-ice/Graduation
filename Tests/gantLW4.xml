@@ -1,0 +1,27 @@
+<Gant>
+  <length value="64" />
+  <Worker1 length="59">
+    <work Id="10" legnth="7" start="0" end="7" />
+    <work Id="9" legnth="9" start="7" end="16" />
+    <work Id="6" legnth="9" start="16" end="25" />
+    <work Id="14" legnth="2" start="25" end="27" />
+    <work Id="11" legnth="9" start="27" end="36" />
+    <work Id="18" legnth="7" start="36" end="43" />
+    <work Id="13" legnth="4" start="43" end="47" />
+    <work Id="19" legnth="9" start="50" end="59" />
+  </Worker1>
+  <Worker2 length="64">
+    <work Id="7" legnth="3" start="0" end="3" />
+    <work Id="0" legnth="2" start="3" end="5" />
+    <work Id="16" legnth="7" start="5" end="12" />
+    <work Id="2" legnth="9" start="12" end="21" />
+    <work Id="3" legnth="3" start="21" end="24" />
+    <work Id="17" legnth="3" start="24" end="27" />
+    <work Id="1" legnth="9" start="27" end="36" />
+    <work Id="5" legnth="8" start="36" end="44" />
+    <work Id="12" legnth="6" start="44" end="50" />
+    <work Id="4" legnth="2" start="50" end="52" />
+    <work Id="8" legnth="6" start="52" end="58" />
+    <work Id="15" legnth="6" start="58" end="64" />
+  </Worker2>
+</Gant>
